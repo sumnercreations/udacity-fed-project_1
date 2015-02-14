@@ -1,0 +1,4 @@
+References for Project 1:
+ - Udacity Intro to HTML and CSS course
+ - Bootstrap documentation website (getbootstrap.com)
+ - Udacity project 1 forum ( hoping there would be something to get to < 8% mismatch, but there wasn't )

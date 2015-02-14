@@ -1,0 +1,40 @@
+body {
+	font-family: Verdana, sans-serif;
+	color: #666;
+	font-size: 16px;
+	line-height: 2.0;
+}
+
+h1 {
+	font-size: 48px;
+	margin: 48px auto 30px auto;
+}
+
+h2 {
+	color: #f07c17;
+	font-weight: bold;
+	font-size: 24px;
+	margin: 0 auto 30px auto;
+}
+
+.features {
+	border: solid 1px #ccc;
+	margin: 30px auto auto auto;
+	padding: 30px;
+}
+
+/* DELETE JUST FOR THE PIXEL PERFECT IMAGE */
+.mockup-overlay {
+	top: 0;
+	position: absolute;
+	z-index: -1;
+	opacity: 0.4;
+}
+
+.col-md-5 {
+	width: 41.66%;
+}
+
+.col-md-7 {
+	width: 58.33%;
+}
